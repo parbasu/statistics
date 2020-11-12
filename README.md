@@ -1,6 +1,6 @@
 # Statistics 
 
-Here you'll find some of my notes on statistics. The focus is on practical statistics. I don't provide any proofs, nor do I provide rigorous explanations as one would expect in a university math course. I might in the future. All the statistical tests and plots are done in Python. The notes are written in Jupyter Notebook.
+Here you'll find some of my notes on statistics. The focus is on applied statistics. I don't provide any proofs, nor do I provide rigorous explanations as one would expect in a university math course. I might in the future. All the statistical tests and plots are done in Python. The notes are written in Jupyter Notebook.
 
 The main references are:
 
