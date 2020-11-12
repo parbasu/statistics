@@ -1,1 +1,1 @@
-https://www.geo.fu-berlin.de/en/v/soga/index.html
+The main reference for these notes is Hartmann, K., Krois, J., Waske, B. (2018): E-Learning Project SOGA: Statistics and Geospatial Data Analysis. Department of Earth Sciences, Freie Universitaet Berlin.
