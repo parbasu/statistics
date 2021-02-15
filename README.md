@@ -10,4 +10,6 @@ The main references are:
 
 3. Downey, Allen. Think stats: exploratory data analysis. " O'Reilly Media, Inc.", 2014.
 
+4. http://www.randomservices.org/random/
+
 I probably looked at some other books, but I can't remember at the moment. I also look for explanations on Mathematics Stack Exchange and [Cross Validated](https://stats.stackexchange.com/), but I can't link to every answer I found helpful. From now on, I'll make sure to bookmark.
